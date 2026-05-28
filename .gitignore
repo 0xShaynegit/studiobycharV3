@@ -27,3 +27,6 @@ npm-debug.log*
 
 # OS-specific
 Thumbs.db
+
+# Documentation and implementation plans
+docs/
